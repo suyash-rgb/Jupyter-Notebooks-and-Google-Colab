@@ -1,0 +1,15 @@
+# Ignore temporary files created by Jupyter/Colab
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore common data and output files
+data/
+output/
+__pycache__/
+
+# Ignore personal configuration and sensitive files
+*.env
+.DS_Store
